@@ -20,7 +20,6 @@ public class Tetragon extends Figure {
            return numbTangle; }
 //    методы
 
-
     @Override
     public void info() {
         System.out.println("фигура  " + getName() + "\n"+

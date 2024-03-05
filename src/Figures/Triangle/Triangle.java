@@ -8,7 +8,7 @@ public class Triangle extends Figure {
          public Triangle() { super(); }
          public Triangle(String name, boolean hasCorners) {
              super(name, hasCorners); }
-    {  this.setName("просто треугольник");
+    {  this.setName("абстрактный треугольник");
         this.setHasCorners(true);}
 //   getters + setters
 

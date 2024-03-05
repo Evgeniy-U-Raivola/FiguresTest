@@ -5,8 +5,8 @@ public abstract class Figure {
     private boolean hasCorners;
     {name="абстрактная фигура";}
 // конструкторы
-    Figure(){};
-    Figure(String name,boolean hasCorners){
+    public Figure(){};
+    public Figure(String name,boolean hasCorners){
         this.name=name;
         this.hasCorners=hasCorners;
     }
@@ -22,5 +22,5 @@ public abstract class Figure {
         this.hasCorners = hasCorners; }
 
     // методы
-     public void info() {};
+     public abstract void info();
 }

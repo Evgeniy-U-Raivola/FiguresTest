@@ -6,8 +6,7 @@ public class RigTriangle extends Triangle{
     public RigTriangle() {super();}
     public RigTriangle(String name,boolean hasCorners) {
         super(name, hasCorners); }
-    {this.setName(" прямоугольный треугольник");
-                 }
+    {this.setName(" прямоугольный треугольник");  }
 //   getters + setters
 //   методы
     @Override

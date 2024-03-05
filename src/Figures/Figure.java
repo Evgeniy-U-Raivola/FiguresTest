@@ -1,6 +1,7 @@
 package Figures;
 
 public abstract class Figure {
+    //    учебный процесс
     private String name;
     private boolean hasCorners;
     {name="абстрактная фигура";}

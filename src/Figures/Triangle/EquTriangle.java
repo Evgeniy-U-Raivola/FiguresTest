@@ -1,7 +1,7 @@
 package Figures.Triangle;
 
 public class EquTriangle extends Triangle {
-
+    //    учебный процесс
 // конструкторы
        public EquTriangle() {super();}
        public EquTriangle(String name,boolean hasCorners) {

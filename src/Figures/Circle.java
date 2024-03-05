@@ -1,7 +1,7 @@
 package Figures;
 
 public class Circle extends Figure {
-
+    //    учебный процесс
 //   конструкторы
     public Circle() { super();}
 

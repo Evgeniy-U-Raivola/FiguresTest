@@ -1,6 +1,7 @@
 package Figures.Triangle;
 
 public class IsoTriangle extends Triangle{
+    //    учебный процесс
     public IsoTriangle() {super();}
     public IsoTriangle(String name, boolean hasCorners) {
         super(name, hasCorners);

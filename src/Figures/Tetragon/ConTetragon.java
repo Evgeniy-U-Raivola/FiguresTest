@@ -1,7 +1,7 @@
 package Figures.Tetragon;
 
 public class ConTetragon extends Tetragon{
-
+//    учебный процесс
 //    конструкторы
       public ConTetragon() {super();}
       public ConTetragon(String name,boolean hasCorners) {

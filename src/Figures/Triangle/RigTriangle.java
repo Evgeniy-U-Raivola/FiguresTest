@@ -1,7 +1,7 @@
 package Figures.Triangle;
 
 public class RigTriangle extends Triangle{
-
+    //    учебный процесс
 // конструкторы
     public RigTriangle() {super();}
     public RigTriangle(String name,boolean hasCorners) {

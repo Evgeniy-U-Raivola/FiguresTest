@@ -1,6 +1,7 @@
 package Figures.Tetragon;
 
 public class Paralellogram extends Tetragon{
+//    учебный процесс
 //    конструкторы
       public Paralellogram() {super();}
       public Paralellogram(String name,boolean hasCorners) {

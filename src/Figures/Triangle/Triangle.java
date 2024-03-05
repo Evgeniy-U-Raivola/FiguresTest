@@ -2,6 +2,7 @@ package Figures.Triangle;
 
 import Figures.Figure;
 public class Triangle extends Figure {
+    //    учебный процесс
       static private int numbangle;
     {numbangle=3;}
 //   конструкторы

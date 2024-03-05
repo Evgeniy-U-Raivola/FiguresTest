@@ -1,6 +1,7 @@
 package Figures.Tetragon;
 
 public class Rhombus extends Tetragon{
+    //    учебный процесс
     //    конструкторы
     public Rhombus() {super();}
     public Rhombus(String name,boolean hasCorners) {

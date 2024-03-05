@@ -1,6 +1,7 @@
 package Figures.Tetragon;
 
 public class Rectangle extends Tetragon{
+//    учебный процесс
     //    конструкторы
     public Rectangle() {super();}
     public Rectangle(String name,boolean hasCorners) {

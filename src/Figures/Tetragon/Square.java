@@ -1,6 +1,7 @@
 package Figures.Tetragon;
 
 public class Square extends Tetragon{
+    //    учебный процесс
     //    конструкторы
     public Square() {super();}
     public Square(String name,boolean hasCorners) {

@@ -1,7 +1,7 @@
 package Figures;
 
 public class Oval extends Figure{
-
+    //    учебный процесс
 //    конструкторы
     public Oval (){ super() ; }
     public Oval(String name, boolean hasCorners) {

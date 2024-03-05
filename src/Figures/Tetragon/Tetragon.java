@@ -3,6 +3,7 @@ package Figures.Tetragon;
 import Figures.Figure;
 
 public class Tetragon extends Figure {
+    //    учебный процесс
 
     static private int numbTangle;
     {numbTangle=4;}

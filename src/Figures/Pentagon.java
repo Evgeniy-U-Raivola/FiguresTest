@@ -1,6 +1,7 @@
 package Figures;
 
 public class Pentagon extends Figure{
+    //    учебный процесс
 //   конструкторы
      public Pentagon() { super();
      }
